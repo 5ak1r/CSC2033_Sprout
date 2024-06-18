@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 001bfb520f3186343bd789af1313444a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - forest: {instanceID: 0}
+  - desert: {instanceID: 0}
+  - volcanic: {instanceID: 0}
+  - snow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
